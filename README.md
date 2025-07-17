@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Sahil Gajbhiye</h1> 👋🏼
+<h1 align="center">Hi, I'm Sahil Gajbhiye👋🏼</h1> 
 <h3 align="center">Enthusiastic Developer | Data Analytics Explorer</h3>
 
 <p align="center">Developer & data explorer crafting impactful digital tools with practical logic and design.</p>
